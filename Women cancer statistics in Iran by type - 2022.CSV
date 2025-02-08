@@ -1,0 +1,32 @@
+Cancer,Number - Incidents,ASR (World) - Incidents,Crude Rate - Incidents,Cum. risk 74 - Incidents,Number - Mortality,ASR (World) - Mortality,Crude Rate - Mortality,Cum. risk 74 - Mortality
+All cancers excl. non-melanoma skin cancer,59609,126.6,139.8,12.9,36344,80.9,85.3,7.9
+"Lip, oral cavity",561,1.2,1.3,0.14,231,0.52,0.54,0.04
+Salivary glands,122,0.26,0.29,0.03,32,0.07,0.08,0.01
+Oropharynx,54,0.12,0.13,0.01,36,0.08,0.08,0.01
+Nasopharynx,95,0.21,0.22,0.02,40,0.09,0.09,0.01
+Hypopharynx,57,0.13,0.13,0.02,23,0.05,0.05,0.01
+Oesophagus,1566,3.5,3.7,0.42,1434,3.3,3.4,0.33
+Stomach,6387,14.3,15,1.7,4841,11,11.4,1.1
+Colorectum,5545,11.9,13,1.4,2936,6.5,6.9,0.66
+Liver and intrahepatic bile ducts,2650,5.9,6.2,0.65,2465,5.6,5.8,0.55
+Gallbladder,251,0.56,0.59,0.07,239,0.54,0.56,0.05
+Pancreas,1305,2.9,3.1,0.34,1287,2.9,3,0.31
+Larynx,503,1.1,1.2,0.12,474,1.1,1.1,0.11
+"Trachea, bronchus and lung",3358,7.4,7.9,0.89,3114,7,7.3,0.71
+Melanoma of skin,311,0.68,0.73,0.07,104,0.24,0.24,0.02
+Mesothelioma,8,0.02,0.02,0,6,0.01,0.01,0
+Kaposi sarcoma,47,0.1,0.11,0.01,44,0.1,0.1,0.01
+Breast,15492,30.5,36.3,3.1,5305,11,12.5,1.2
+Vulva,48,0.1,0.11,0.01,14,0.03,0.03,0
+Vagina,55,0.12,0.13,0.01,16,0.03,0.04,0
+Cervix uteri,1265,2.5,3,0.27,743,1.6,1.7,0.18
+Corpus uteri,1434,3.1,3.4,0.36,596,1.3,1.4,0.15
+Ovary,2027,4.2,4.8,0.44,1228,2.7,2.9,0.3
+Kidney,758,1.7,1.8,0.19,266,0.6,0.62,0.06
+Bladder,901,2,2.1,0.24,418,0.98,0.98,0.07
+"Brain, central nervous system",2551,5.6,6,0.55,2544,5.7,6,0.58
+Thyroid,3017,6.1,7.1,0.6,285,0.64,0.67,0.07
+Hodgkin lymphoma,494,1.1,1.2,0.1,214,0.47,0.5,0.04
+Non-Hodgkin lymphoma,1286,2.8,3,0.3,691,1.5,1.6,0.16
+Multiple myeloma,495,1.1,1.2,0.13,421,0.95,0.99,0.11
+Leukaemia,2530,5.8,5.9,0.56,2166,5,5.1,0.47
